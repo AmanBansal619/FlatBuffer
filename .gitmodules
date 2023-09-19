@@ -1,0 +1,3 @@
+[submodule "flatbuffersCopy/FlatBuffer/FlatBuffer"]
+	path = flatbuffersCopy/FlatBuffer/FlatBuffer
+	url = https://github.com/AmanBansal619/FlatBuffer.git
