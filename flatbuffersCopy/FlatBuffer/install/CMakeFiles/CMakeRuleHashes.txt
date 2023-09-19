@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+97dc845343f13671b6de057a6231027a samples/monster_generated.h
+9a9447564a38d043ca9a3b879647ca61 tests/64bit/evolution/v1_generated.h
+2a095f063ed2b3bc818e0e74ffd9c88e tests/64bit/evolution/v2_generated.h
+1e6e2d3dbc7851006efe960ac3f595e0 tests/64bit/test_64bit_generated.h
+0bf02e8274576ec8b9b041e874429e53 tests/alignment_test_generated.h
+21a67851c2d3527a0a68786deffd6d65 tests/arrays_test_generated.h
+80ad7260347d39349cfe7ac041725598 tests/key_field/key_field_sample_generated.h
+9dd27c35486000516c95e84a443853e0 tests/native_inline_table_test_generated.h
+4f1c5ae1e8a6401ad1f58cc3c263ca8b tests/native_type_test_generated.h
+aa76063ffb93b57c8297bddd2046519c tests/union_underlying_type_test_generated.h

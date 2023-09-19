@@ -1,0 +1,14 @@
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/flatbuffers.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/flatc.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/flattests.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/flatsamplebinary.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/flatsampletext.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/flatsamplebfbs.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/flatsample.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/test.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/list_install_components.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/install.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/install/local.dir
+/Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release/CMakeFiles/install/strip.dir

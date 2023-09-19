@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/amanbansal/Downloads/flatbuffersCopy -B /Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release
+-- Proceeding with version: 23.5.26.0
+-- CMAKE_CXX_FLAGS: 
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/amanbansal/Downloads/flatbuffersCopy/cmake-build-release

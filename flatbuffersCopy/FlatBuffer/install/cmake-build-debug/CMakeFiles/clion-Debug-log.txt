@@ -1,0 +1,4 @@
+Cannot generate into /Users/amanbansal/Downloads/flatbuffers-master/FlatBuffer/install
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory

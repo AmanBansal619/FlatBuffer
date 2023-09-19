@@ -1,0 +1,26 @@
+// Example IDL file for our MyClient's schema.
+
+namespace MyGame.Sample;
+
+namespace MyClient.Sample;
+
+table Person {
+  name:string;
+  age:int;
+  weight:float;
+  is_male:bool = true;
+}
+
+table Group {
+  name:string;
+  avg_age:float;
+  avg_weight:float;
+  names_list:[string];
+}
+
+table PersonGroup {
+  person_data:Person;
+  group_data:Group;
+}
+
+root_type Person;
